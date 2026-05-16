@@ -25,7 +25,7 @@ All data sourced from official public filings and government databases:
 
 ## Dashboard
 
-insert dashboard here
+![Dashboard Overview](Dashboard/Delta Airline Revenue Analysis_ 2019–2023 — From Collapse to Recovery.png)
 
 The dashboard is structured across five analytical sheets:
 
