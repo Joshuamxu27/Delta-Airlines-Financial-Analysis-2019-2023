@@ -50,10 +50,29 @@ The dashboard is structured across five analytical sheets:
 
 ## Executive Summary
 
-Between 2019 and 2020, Delta Air Lines saw its total operating revenue fall from $47 billion to $17.1 billion — a 64% collapse driven by the near-total shutdown of commercial air travel during the COVID-19 pandemic. In Q2 2020 alone, passengers carried dropped from 54 million to 5.6 million, and the airline posted an operating loss of $4.8 billion in a single quarter.
-This analysis goes beyond the revenue headline to examine the operational and financial drivers behind both the collapse and the four-year recovery that followed. Using raw quarterly data sourced directly from Delta's SEC 10-K and 10-Q filings, this project investigates five core relationships: how Delta's costs compared to competitors during the downturn, how cost-per-mile tracked against revenue-per-mile as capacity was cut and restored, how load factor behaved as a leading indicator of financial recovery, how fleet utilization drove fixed cost absorption, and how cargo revenue partially cushioned the collapse in passenger demand.
-Delta Air Lines was selected as the primary subject of this analysis because it consistently files the most detailed operational statistics of any major U.S. carrier, enabling a granularity of analysis not easily replicated with American, United or Southwest data. Industry-level context is provided through a comparative dataset covering all four major U.S. legacy and low-cost carriers across the same period.
-Key findings include: operating costs proved largely fixed even as revenue evaporated, pushing cost-per-available-seat-mile to 59 cents in Q2 2020 versus 14.5 cents pre-pandemic; load factor recovery consistently preceded revenue recovery by one to two quarters, making it the strongest early signal of financial improvement; cargo revenue held relatively stable through the worst COVID quarters as belly freight demand surged; and despite revenue returning to 2019 levels by mid-2022, full profitability was delayed by a fuel cost spike to $3.74 per gallon following the Russia-Ukraine war — the single biggest external shock to the recovery timeline.
+Delta Air Lines: Pandemic Collapse and Recovery Analysis (2019–2023)
+This analysis utilizes SEC 10-K/10-Q filings to examine Delta’s financial performance and recovery, offering a granular look at how the airline navigated the COVID-19 pandemic compared to other major U.S. carriers.
+
+The Collapse (2020)
+Revenue Impact: Total operating revenue plummeted 64%, falling from $47 billion to $17.1 billion.
+
+Operational Hitting: Q2 2020 passenger volume crashed from 54 million to 5.6 million, resulting in a $4.8 billion single-quarter operating loss.
+
+Cost Inelasticity: Operating costs remained largely fixed despite the revenue void; cost-per-available-seat-mile (CASM) spiked from 14.5 cents to 59 cents in Q2 2020.
+
+Key Recovery Drivers
+Load Factor as a Leading Indicator: Improvements in load factor consistently signaled financial recovery one to two quarters before revenue followed suit.
+
+Cargo Buffering: Cargo revenue provided a critical cushion during the passenger demand collapse, supported by surging demand for belly freight.
+
+Fleet Utilization: Strategic fleet management was essential for absorbing fixed costs as capacity was gradually restored.
+
+Post-Pandemic Challenges
+Profitability Lag: Although revenue returned to 2019 levels by mid-2022, full profitability was delayed.
+
+External Shocks: The Russia-Ukraine war proved to be the primary recovery hurdle, driving fuel costs to $3.74 per gallon.
+
+Methodological Note: Delta was selected for this study due to the superior granularity of its operational reporting compared to American, United, or Southwest. The study incorporates a comparative dataset of all four major U.S. carriers to provide industry-wide context.
 
 
 
