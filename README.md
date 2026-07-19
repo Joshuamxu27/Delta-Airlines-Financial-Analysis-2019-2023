@@ -48,7 +48,7 @@ The dashboard is structured across five analytical sheets:
 
 ---
 
-## Executive Summary
+## Summary
 
 Delta Air Lines: Pandemic Collapse and Recovery Analysis (2019–2023)
 This analysis utilizes SEC 10-K/10-Q filings to examine Delta’s financial performance and recovery, offering a granular look at how the airline navigated the COVID-19 pandemic compared to other major U.S. carriers.
